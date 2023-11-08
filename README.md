@@ -1,4 +1,10 @@
-<h1 align="center"> Hello, world! 👋</h1>               
+<h1 align="center"> Hello, world! 👋</h1>      
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdevendra-dhakad"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdevendra-dhakad&countColor=%2337d67a&style=plastic&labelStyle=none" /></a>
+
+<img align="right" width="300" height="300" src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-%EF%BB%BFbee-png-image_3693921.jpg" />
+
+
 
 I'm a Certified Kubernetes expert with a passion for eBPF and cloud-native observability. With two years of experience at Amazon, I've honed my skills in cloud-native technologies, contributing to high-scale projects and crafting tools that simplify and elevate cloud application monitoring.
 
