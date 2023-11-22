@@ -29,6 +29,6 @@ Projects that push the boundaries of cloud-native ecosystems, DevOps and eBPF.
 
 <h1 align="center"> 📫  How to reach me </h1> 
 
-Feel free to connect with me here on GitHub or on <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=devendra-dhakad" target="_blank">Follow on LinkedIn.</a>
+Feel free to connect with me here on GitHub or on <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=devendra-dhakad" target="_blank">LinkedIn.</a>
 
 
